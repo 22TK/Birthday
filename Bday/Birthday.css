@@ -42,13 +42,13 @@ h1 {
     border: 5px solid #fffffff;
     width: 400px;
     height: 400px;
-    background-image: url("downloads/y.jpg");
+    background-image: url("https://github.com/22TK/Birthday/blob/main/Bday/downloads/y.jpg");
     background-size: cover;
 
 }
 
 #we:hover {
-    background-image: url("downloads/w.webp");
+    background-image: url("https://github.com/22TK/Birthday/blob/main/Bday/downloads/w.webp");
 }
 
 #id {
@@ -57,10 +57,10 @@ h1 {
     border: 5px solid black;
     width: 400px;
     height: 400px;
-    background-image: url("downloads/y.jpg");
+    background-image: url("https://github.com/22TK/Birthday/blob/main/Bday/downloads/y.jpg");
     background-size: cover;
 }
 
 #id:hover {
-    background-image: url("downloads/45.webp");
+    background-image: url("https://github.com/22TK/Birthday/blob/main/Bday/downloads/45.webp");
 }
